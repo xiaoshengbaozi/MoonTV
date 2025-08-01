@@ -86,4 +86,11 @@
       "name": "小猫咪资源"
     }
   }
+  "custom_category": [
+    {
+      "name": "动漫",
+      "type": "tv",
+      "query": "日本动画"
+    }
+  ]
 }
